@@ -1,4 +1,4 @@
-# tournament-tracker
+# Tournament tracker
 ## Application for creating sport tournaments
 
 Featured technologies used include:
